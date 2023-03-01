@@ -46,7 +46,7 @@ function renderUserList(users = usuarios) {
         <td>${user.username}</td>
         <td>${user.name}</td>
         <td>${user.email}</td>
-        <td>${user.webpage}</td>
+        <td>${user.website}</td>
         <td>${user.age}</td>
       </tr>
     `;
